@@ -2,25 +2,25 @@
 
 This is a Scapy-based packet sniffer that works on Windows. It captures network packets and prints source/destination IPs and protocols.
 
-## 🚀 Features
+Features
 
 - Windows compatible
 - Captures packets using Scapy
 - Displays source IP, destination IP, protocol
 
-## 🛠️ Requirements
+Requirements
 
 - Python 3.x
 - Scapy
 - Admin privileges (recommended for full access)
 
-## 📦 Installation
+Installation
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## 🧪 Usage
+ Usage
 
 ```bash
 python sniffer.py
